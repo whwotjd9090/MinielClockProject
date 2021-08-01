@@ -3,7 +3,7 @@ Visual Clock
 
 ### Install ###
 
-[Version 1.3.0.0.exe](https://github.com/whwotjd9090/MinielClockProject/blob/7dd54771814f25f4fcf0b7d3b1a10a1c65787ca3/Mimiel_Clock_setup_1_300.exe)
+[Version 1.3.0.0.exe](https://github.com/whwotjd9090/MinielClockProject/raw/7dd54771814f25f4fcf0b7d3b1a10a1c65787ca3/Mimiel_Clock_setup_1_300.exe)
 
 ## Install Page ##
 
